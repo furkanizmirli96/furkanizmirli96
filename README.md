@@ -3,7 +3,7 @@
 ### Academic Background:
 <br>
 Yaşar University - Computer Engineering (2014-2019) GPA:3.06
-<br>
+
 ### Career Summary:
 <br>
 ISM Minibar Makina Elektrik Sanayi ve Ticaret A. Ş. - İnci Holding (August 2019-Present)
