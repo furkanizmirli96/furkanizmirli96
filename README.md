@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 ### Academic Background:
-<br>
 Yaşar University - Computer Engineering (2014-2019) GPA:3.06
 ### Career Summary:
-<br>
 ISM Minibar Makina Elektrik Sanayi ve Ticaret A. Ş. - İnci Holding (August 2019-Present)
 ### Personal Summary:
-<br>
 I am a computer engineer who have strong interest in make researches, different areas of software development states and also catch up-to-date software technologies. Worked in AI development tools and full-stack.
 <br>
 <!--
