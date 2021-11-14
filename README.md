@@ -11,17 +11,20 @@ I am a computer engineer who have strong interest in make researches, different 
 You can send e-mail on furkanizmirli96@gmail.com if you want to reach me.
 
 <p>
-
+  
 [![instagram][1.1]][1] &nbsp; &nbsp; &nbsp;
 [![linkedin][2.1]][2] &nbsp; &nbsp; &nbsp;
 [![hackerrank][3.1]][3] &nbsp; &nbsp; &nbsp;
 
-[1]: https://www.instagram.com/furkanizmirli_
-[2]: www.linkedin.com/in/furkanizmirli
-[3]: https://www.hackerrank.com/furkanizmirli96
-
-
 </p>
+
+[1.1]: ./icons/instagram.png
+[2.1]: ./icons/linkedin.png
+[3.1]: ./icons/hackerrank.png
+
+[1]: https://www.instagram.com/furkanizmirli_
+[2]: https://www.linkedin.com/in/furkanizmirli/
+[3]: https://www.hackerrank.com/furkanizmirli96
 
 <!--
 **furkanizmirli96/furkanizmirli96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
