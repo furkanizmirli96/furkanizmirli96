@@ -16,9 +16,9 @@ You can send e-mail on furkanizmirli96@gmail.com if you want to reach me.
 [2]: www.linkedin.com/in/furkanizmirli
 [3]: https://www.hackerrank.com/furkanizmirli96
 
-[![instagram][1.1]][1] &nbsp; &nbsp; &nbsp;
-[![linkedin][2.1]][2] &nbsp; &nbsp; &nbsp;
-[![hackerrank][3.1]][3] &nbsp; &nbsp; &nbsp;
+[!][instagram][1.1]][1] &nbsp; &nbsp; &nbsp;
+[!][linkedin][2.1]][2] &nbsp; &nbsp; &nbsp;
+[!][hackerrank][3.1]][3] &nbsp; &nbsp; &nbsp;
 
 </p>
 
