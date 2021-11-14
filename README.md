@@ -7,6 +7,8 @@ ISM Minibar Makina Elektrik Sanayi ve Ticaret A. Ş. - İnci Holding (August 201
 ### Personal Summary:
 I am a computer engineer who have strong interest in make researches, different areas of software development states and also catch up-to-date software technologies. Worked in AI development tools and full-stack.
 <br>
+### How can you reach me?
+You can send e-mail on furkanizmirli96@gmail.com if you want to reach me.
 <!--
 **furkanizmirli96/furkanizmirli96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
