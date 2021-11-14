@@ -12,9 +12,9 @@ You can send e-mail on furkanizmirli96@gmail.com if you want to reach me.
 
 <p>
   
-[![instagram][1.1]][1] &nbsp; &nbsp; &nbsp;
-[![linkedin][2.1]][2] &nbsp; &nbsp; &nbsp;
-[![hackerrank][3.1]][3] &nbsp; &nbsp; &nbsp;
+[![instagram][1.1]][1] &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin][2.1]][2] &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+[![hackerrank][3.1]][3] &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
